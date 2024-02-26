@@ -201,13 +201,21 @@ op
 ```
 # OUTPUT
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/2f1a046f-49e9-440a-ba5f-8c16dae0e97d)
+
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/9180b739-53e6-4d08-9761-eb41d79089ea)
+
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/14bde4dd-e564-4fee-91f3-52de5ac7c59f)
+
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/06e0caf4-dde0-4e11-8aee-2379a2ab7234)
+
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/95daf9ae-454f-4924-ba58-b828b333e3b1)
+
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/d889c5ca-07e3-4224-bc95-8a3e9faa1064)
+
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/55f97582-795b-4864-aacf-f8df9fc3bea9)
+
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/5d50f766-e253-4177-a6b0-bcfba5e14a17)
+
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/969fcb81-d2fc-4e82-85d7-799bd09e1192)
 
 # Result
