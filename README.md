@@ -84,51 +84,39 @@ STEP 6: Use zscore of to remove outliers
  df.isnull().sum()
 ```
  # OUTPUT
-
  # For Data_Set
  ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/b581b6e4-b8b3-481f-a93c-3ff7421c1a0c)
  ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/cb40ed94-b364-4e1f-8d5b-293f5c1d39cf)
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/850fbe7a-a9a6-4fac-ac8a-83b7a619c0ba)
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/d9317b7b-5f04-4682-a175-4fe61f361f0a)
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/a4928c49-2918-49b6-9e77-8d17ed8da2dd)
-
 # NON NULL BEFORE
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/02b1b7f7-d360-4217-8bad-71ed011fde5f)
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/c73f02d8-64e5-47ca-ba0a-0de5c4e63747)
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/3fb85203-8458-445a-9e13-3b9f42c0c82c)
-
 # MODE
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/2edc3c80-074e-4b73-aa25-fef19d23f799)
-
 # MEAN
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/d2e49792-c9a3-4b2b-87c2-6031e07fe18b)
-
 # MEDIAN
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/6fab031c-16da-41e8-b152-f3900b258460)
-
 # NON NULL AFTER
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/590becd6-d7bb-4f05-9eed-6a1ebc296379)
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/81626ddf-2bf6-45f4-8869-8621be32a9f8)
-
 # For loan_data
 # DATA
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/534dfbea-fdc4-4d6e-9e3d-0a50127e7ec4)
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/73d7eb81-81c0-4356-90c6-65d09316391c)
-
 # NON NULL BEFORE
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/3620d2af-e3de-4575-aa07-d40db3a68d8e)
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/18bb20ca-653c-48f5-8747-2c4830ce0e26)
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/a0b7d529-d249-454e-9124-1fe9688a9384)
-
 # MODE
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/0f292fcc-4a18-4a7b-a5e2-a26dd71a53ea)
-
 # MEAN
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/3ca75707-984a-46f9-93a0-86ed7eb9cd8d)
-
 # MEDIAN
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/ecc2bfd7-2b85-4299-9f6e-540627fe4744)
-
 # NON NULL AFTER
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/c2891cdd-b5d1-435a-8a2a-14416a08795d)
 ![image](https://github.com/ThangaDeepika/exno1/assets/125663099/23d5914e-a325-4392-a35e-22ae78e2b016)
